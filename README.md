@@ -23,10 +23,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=1&pause=99999999&color=FF61D2&width=260&lines=%E2%9C%A7+About+Me" />
 
 ```yaml
-✦ name      : Yang Xu (徐洋)
+✦ name      : Yang Xu
 ✦ focus     : [AI Algorithms, Large Language Models]
 ✦ exploring : [Agentic AI, Multimodal, Reasoning]
-✦ bias      : 柳智敏 (Karina, aespa) 💜
+✦ bias      : Karina (aespa) 💜
 ✦ contact   : xuyanging666@gmail.com
 ✦ motto     : "MY, KARINA"
 ```
@@ -58,30 +58,15 @@
 
 <div align="center">
 
-<img src="./assets/karina.gif" width="360" alt="Karina" />
+<img src="https://c.tenor.com/szd3_WMV_7gAAAAC/karina-aespa.gif" width="380" alt="Karina" />
 
 <br/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Aespa_Karina_at_the_2025_Waterbomb_Festival.png" width="280" alt="Karina" />
+
+<br/><br/>
 
 > *"I'm the supernova, naega myeon get to know"* — **aespa, Supernova**
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Bias-FF61D2?style=for-the-badge" /><br/>
-      <strong>柳智敏 (Karina)</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Group-7B61FF?style=for-the-badge" /><br/>
-      <strong>aespa (æspa)</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Position-00DBDE?style=for-the-badge" /><br/>
-      <strong>Leader · Visual</strong>
-    </td>
-  </tr>
-</table>
 
 </div>
 
