@@ -23,7 +23,7 @@
 
 <br/>
 
-<img src="https://c.tenor.com/cLw75fGpITAAAAAC/karina-aespa.gif" width="420" alt="Karina singing for MYs" />
+<img src="./assets/karina-singing.gif" width="460" alt="Karina singing a Chinese song for MYs" />
 
 <br/>
 
